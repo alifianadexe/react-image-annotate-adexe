@@ -1,6 +1,6 @@
 {
-  "name": "react-image-annotate",
-  "version": "1.8.0",
+  "name": "react-image-annotate-adexe",
+  "version": "1.0.0",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.12",
     "@fortawesome/free-solid-svg-icons": "^5.6.3",
@@ -38,10 +38,10 @@
     "react": "^16.8.0",
     "react-dom": "^16.8.0"
   },
-  "homepage": "/react-image-annotate",
+  "homepage": "/react-image-annotate-adexe",
   "repository": {
     "type": "git",
-    "url": "https://github.com/UniversalDataTool/react-image-annotate.git"
+    "url": "https://github.com/alifianadexe/react-image-annotate-adexe.git"
   },
   "scripts": {
     "start": "react-scripts start",
